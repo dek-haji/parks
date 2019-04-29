@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: grey
+}
+
+
+
+
+.positive{
+    border: 2px dashed red;
+    width: 350px;
+    padding: 20px;
+    margin: 30px;
+    background-color: lightgray
+}
+.negative{
+    border: 2px solid green;
+    width: 350px;
+    padding: 20px;
+    margin: 30px;
+    background-color: lightblue
+}
